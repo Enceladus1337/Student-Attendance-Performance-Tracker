@@ -13,6 +13,12 @@ A web-based system built using PHP and MySQL to manage student attendance and ac
 - MySQL
 - HTML, CSS
 - XAMPP
+- 
+- ## Database Setup
+1. Open phpMyAdmin
+2. Create a new database (or just import)
+3. Import the file `database.sql`
+4. Run the project
 
 ## How to Run
 1. Install XAMPP
